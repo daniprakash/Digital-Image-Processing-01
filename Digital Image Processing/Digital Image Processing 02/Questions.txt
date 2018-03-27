@@ -1,0 +1,1 @@
+2. Implement image scaling and rotation by using Inverse mapping and interpolation techniques. Use neighborhood and bi-linear interpolation. (Take PISA tower image and rotate it by using your rotation function and try to find to find the angle of inclination of the tower manually). 

@@ -1,0 +1,1 @@
+3. Implement histogram equalization and histogram matching. Use the images given in the Gonzalos text book to show the demo, and visualize the results. 

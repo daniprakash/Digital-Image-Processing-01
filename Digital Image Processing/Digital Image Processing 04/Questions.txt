@@ -1,0 +1,1 @@
+4. Add salt and pepper noise to the Lena image, apply gaussian filter operation. Please note that built-in function for filtering operation should not use, you have to implement the convolution operation with Gaussian with basic constructs in Matlab. 
