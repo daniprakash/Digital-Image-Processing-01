@@ -1,0 +1,1 @@
+1. Down-sampling (factor of 2, 4, 6) and quantization (levels: 128, 64, 32) of Lena image.
